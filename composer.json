@@ -1,0 +1,6 @@
+{
+	"name": "HotelsProcess/assignment"
+    "require-dev": {
+        "phpunit/phpunit": "5.4.*"
+    }
+}
